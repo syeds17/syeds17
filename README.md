@@ -1,13 +1,13 @@
-- 👋 Hi, I’m @syeds17
-- 👀 I’m interested in web development and giving my best in the journey of becoming a full stack web developer.
-- 🌱 I’m currently learning python at my university but started my HTML CSS and JavaScript in my PC
-- 💞️ I’m looking to collaborate on events and topics related to coding in python and front-end web development.
-- 📫 How to reach me https://www.linkedin.com/in/syed-sadath-1bb252277/ 
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: When im not coding you can find me immersed in the world of online gaming.
--  From battling mythical creatures to computing in virtual races, gaming is my go-to for relaxation and entertainment. 
+### About Me:
+Greetings! 🌟 I'm Syed Sadath, a 20-year-old enthusiast journeying through the realms of technology and knowledge.
 
-<!---
-syeds17/syeds17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Currently:
+Currently, I'm embarking on my academic journey as a first-year student at Akshaya Institute of Technology (VTU), Tumkur, eager to immerse myself in the wonders of higher education. 📚
+
+### Interests:
+My heart beats for the artistry of Software Engineering 💻 and the dynamic world of Web Development. I'm also drawn to the excitement of Tech Events 🚀, where innovation and inspiration collide.     
+ 
+  Oh, and did I mention? I'm an avid Anime enthusiast 🎌, captivated by its endless narratives and captivating visuals.
+
+### Hobbies:
+When I'm not exploring the digital universe, you'll find me lost in the immersive worlds of video games 🎮, delving deeper into the realms of technology, and broadening my horizons through continuous learning and discovery. 🚀
